@@ -1,0 +1,14 @@
+export OS_AUTH_URL=dns.gov
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=disa
+export OS_PROJECT_DOMAIN_NAME=disa.mil
+export OS_USERNAME=meh
+export OS_USER_DOMAIN_NAME=fqdn.mine
+export OS_PASSWORD=nahcos
+export OS_AUTH_URL=http://controller:35357/v2/
+export OS_IDENTITY_API_VERSION=3
+export OS_PROJECT_NAME=myproject
+export OS_PROJECT_DOMAIN_NAME=default
+export OS_USERNAME=admin
+export OS_USER_DOMAIN_NAME=default
+export OS_PASSWORD=alta3
